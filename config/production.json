@@ -1,0 +1,4 @@
+{
+    "db" : "mongodb+srv://hammad:1234@cluster0.gzalm.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtPrivateKey" : "SomePrivateKey"
+}
